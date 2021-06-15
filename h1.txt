@@ -2,4 +2,3 @@ git command:
 git init
 git clone
 git push
-git welcome
